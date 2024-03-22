@@ -1,6 +1,6 @@
 {
   "name": "create-basic-node-project",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A package to create a basic Node.js project with Express.js setup.",
   "bin": {
     "create-basic-node-project": "./bin/create-basic-node-project.js"
@@ -12,5 +12,27 @@
     "my-project": "^0.0.1",
     "prompt-sync": "^4.2.0"
   },
+  "keywords": [
+    "node-project",
+    "nodejs",
+    "node",
+    "npm",
+    "cli",
+    "utility",
+    "project-generator",
+    "boilerplate",
+    "starter",
+    "setup",
+    "scaffolding",
+    "automation",
+    "express",
+    "template",
+    "initialization",
+    "development",
+    "programming",
+    "tool",
+    "code",
+    "programming"
+  ],
   "license": "MIT"
 }

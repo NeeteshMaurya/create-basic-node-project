@@ -25,4 +25,4 @@ npx create-basic-node-project <your project name>
 * Dependency Installation: Manually installing dependencies and configuring package.json can be confusing for beginners. This utility handles dependency installation and package.json setup automatically.
 
 ## Suggestions
-* We welcome any suggestions or feedback to improve this utility. If you encounter any issues or have ideas for enhancements, please open an issue on GitHub or reach out to us via email at your-neeteshm4@gmail.com
+* We welcome any suggestions or feedback to improve this utility. If you encounter any issues or have ideas for enhancements, please open an issue on GitHub or reach out to us via email at -neeteshm4@gmail.com
