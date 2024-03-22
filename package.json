@@ -1,0 +1,16 @@
+{
+  "name": "create-basic-node-project",
+  "version": "1.0.0",
+  "description": "A package to create a basic Node.js project with Express.js setup.",
+  "bin": {
+    "create-basic-node-project": "./bin/create-basic-node-project.js"
+  },
+  "dependencies": {
+    "create-node-project": "^1.0.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "my-project": "^0.0.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "license": "MIT"
+}
